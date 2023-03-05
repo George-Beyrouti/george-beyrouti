@@ -4,9 +4,7 @@
 
 <p align="center"> Hi 👋, I'm George Beyrouti
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A passionate Full-Stack MERN<br>Web developer living in Germany.,;Masters studies in Marketing Management & Research,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&multiline=true&width=650&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.+%26+Research%2C;Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
 
 <br>
 
