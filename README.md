@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="480" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="450" />
 
 
 Hi 👋, I'm George Beyrouti, A passionate Full-Stack MERN<br>Web developer living in Germany.<br><br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Other<br><br>📫 How to reach me: georges.beyrouti@gmail.com<br><br>👨‍💻 All of my projects are available at my Portfolio page:<br>https://react-portfolio-ochre-five.vercel.app/<br><br>📄 Know about my experiences: from my available<br> to download Resume on my Portfolio ⬆️<br>
