@@ -3,7 +3,7 @@
 
 <p align="left"> Hi 👋, I'm George Beyrouti
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&multiline=true&width=600&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.+%26+Research%2C;Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&multiline=true&width=550&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.+%26+Research%2C;Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="444" />
 
