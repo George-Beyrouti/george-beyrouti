@@ -4,7 +4,7 @@
 
 <p align="center"> Hi 👋, I'm George Beyrouti
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&multiline=true&width=650&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.%2C;+%26+Research Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&multiline=true&width=600&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.+;%26+Research%2C+Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
 
 <br>
 
