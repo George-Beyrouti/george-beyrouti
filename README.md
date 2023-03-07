@@ -3,7 +3,7 @@
 <p align="left"> Hi 👋, I'm George Beyrouti
 <div align="left">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&multiline=true&width=575&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in %2C;Marketing+Mgmt.+%26+Research%2C;Living+in+Germany%2FDeutschland.)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&vCenter=true&multiline=true&width=410&height=95&lines=A+passionate+MERN+Full-Stack+Web+Developer%2C;with+Master's+studies+in%3A;Marketing+Mgmt.+%26+Research%2C;Living+in+Germany%2FDeutschland.)](https://git.io/typing-svg)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="325" height="300" />
 <br>
 <br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Other<br>
