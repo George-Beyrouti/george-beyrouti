@@ -4,9 +4,9 @@
 <div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&vCenter=true&multiline=true&width=410&height=95&lines=A+passionate+MERN+Full-Stack+Web+Developer%2C;with+Master's+studies+in%3A;Marketing+Mgmt.+%26+Research%2C;Living+in+Germany%2FDeutschland.)](https://git.io/typing-svg)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="310" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="300" />
 <br>
-<br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Other<br>
+<br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Others<br>
 <br>
 ## 🌐 Socials:
   
