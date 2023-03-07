@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&multiline=true&width=600&height=100&lines=A+passionate+MERN+Full-Stack++Web+developer%2C;with+Master's+studies+in+Marketing+Mgmt.+%26+Research%2C;Living+in+Germany+%2F+Deutschland.)](https://git.io/typing-svg)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="400" />
 
-<br><br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Other
+<br>🔭 I’m currently working on: MERN Full Stack Applications.<br><br>👯 I’m looking to collaborate on Exciting New Projects<br><br>🌱 I’m currently learning: Redux, TypeScript, Next.js among Other
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://de.linkedin.com/in/george-beyrouti) 
