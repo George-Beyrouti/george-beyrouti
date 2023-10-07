@@ -10,7 +10,7 @@
 <br>
 ## 🌐 Socials:
   
-  <br>📫 How to reach me: georges.beyrouti@gmail.com<br><br>👨‍💻 All of my projects are available at my Portfolio page:<br>https://react-portfolio-george-beyrouti.vercel.app/<br><br>📄 Know about my experiences: from my available<br> to download Resume on my Portfolio ⬆️<br>
+  <br>📫 How to reach me: georges.beyrouti@gmail.com<br><br>👨‍💻 All of my projects are available at my Portfolio page:<br>https://george-beyrouti-personal-website.vercel.app/<br><br>📄 Know about my experiences: from my available<br> to download Resume on my Portfolio ⬆️<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://de.linkedin.com/in/george-beyrouti) 
   
